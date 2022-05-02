@@ -2,5 +2,5 @@ testing how to use GitHUb
 adding new info to file
 second update
 THis is on the newbranch
-
 changing things on the main branch
+Doing some wierd things on the wierd branch
